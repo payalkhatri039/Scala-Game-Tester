@@ -1,0 +1,801 @@
+RUN	videogamedb.scriptfundamentals.VideoGameTest2	videogametest2	1718648566874	test	3.10.5
+USER	Create and Delete Video Game Scenario	START	1718648572212
+USER	Create and Delete Video Game Scenario	START	1718648572282
+USER	Create and Delete Video Game Scenario	START	1718648572383
+USER	Create and Delete Video Game Scenario	START	1718648572483
+REQUEST		Authenticate	1718648572210	1718648572474	OK	 
+REQUEST		Authenticate	1718648572281	1718648572536	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648572583
+REQUEST		Create a new game - Game-RNupx	1718648572519	1718648572602	OK	 
+REQUEST		Create a new game - Game-HKwHX	1718648572537	1718648572623	OK	 
+REQUEST		Authenticate	1718648572382	1718648572640	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648572683
+REQUEST		Create a new game - Game-aBmFX	1718648572641	1718648572741	OK	 
+REQUEST		Authenticate	1718648572482	1718648572773	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648572786
+REQUEST		Create a new game - Game-eJKyW	1718648572775	1718648572871	OK	 
+REQUEST		Authenticate	1718648572582	1718648572879	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648572884
+REQUEST		Create a new game - Game-CYBdP	1718648572881	1718648572964	OK	 
+REQUEST		Authenticate	1718648572682	1718648572977	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648572984
+REQUEST		Authenticate	1718648572784	1718648573041	OK	 
+REQUEST		Create a new game - Game-tdeYO	1718648572978	1718648573063	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573085
+REQUEST		Create a new game - Game-kQLwS	1718648573046	1718648573130	OK	 
+REQUEST		Authenticate	1718648572883	1718648573137	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573190
+REQUEST		Create a new game - Game-cMPBg	1718648573139	1718648573224	OK	 
+REQUEST		Authenticate	1718648572983	1718648573239	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573282
+REQUEST		Create a new game - Game-paoHl	1718648573240	1718648573324	OK	 
+REQUEST		Authenticate	1718648573085	1718648573357	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573382
+REQUEST		Create a new game - Game-NOWZb	1718648573359	1718648573447	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573483
+REQUEST		Authenticate	1718648573188	1718648573489	OK	 
+REQUEST		Authenticate	1718648573281	1718648573536	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573584
+REQUEST		Create a new game - Game-NusuX	1718648573491	1718648573592	OK	 
+REQUEST		Create a new game - Game-ehpZl	1718648573537	1718648573619	OK	 
+REQUEST		Authenticate	1718648573382	1718648573638	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573683
+REQUEST		Delete the created game	1718648573610	1718648573694	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648573698
+REQUEST		Delete the created game	1718648573625	1718648573709	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648573710
+REQUEST		Create a new game - Game-aARQC	1718648573640	1718648573723	OK	 
+REQUEST		Authenticate	1718648573482	1718648573733	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648573784
+REQUEST		Authenticate	1718648573583	1718648573839	OK	 
+REQUEST		Create a new game - Game-xXpfR	1718648573734	1718648573840	OK	 
+REQUEST		Delete the created game	1718648573743	1718648573847	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648573849
+USER	Create and Delete Video Game Scenario	START	1718648573884
+REQUEST		Create a new game - Game-cWElX	1718648573841	1718648573929	OK	 
+REQUEST		Authenticate	1718648573682	1718648573938	OK	 
+REQUEST		Delete the created game	1718648573874	1718648573975	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648573976
+USER	Create and Delete Video Game Scenario	START	1718648573983
+REQUEST		Create a new game - Game-SeUMn	1718648573939	1718648574021	OK	 
+REQUEST		Authenticate	1718648573783	1718648574040	OK	 
+REQUEST		Delete the created game	1718648573967	1718648574050	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574051
+USER	Create and Delete Video Game Scenario	START	1718648574084
+REQUEST		Create a new game - Game-Vlbga	1718648574041	1718648574123	OK	 
+REQUEST		Authenticate	1718648573883	1718648574136	OK	 
+REQUEST		Delete the created game	1718648574066	1718648574153	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574155
+USER	Create and Delete Video Game Scenario	START	1718648574184
+REQUEST		Delete the created game	1718648574133	1718648574218	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574220
+REQUEST		Create a new game - Game-pMQdQ	1718648574138	1718648574219	OK	 
+REQUEST		Authenticate	1718648573983	1718648574238	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574280
+REQUEST		Delete the created game	1718648574227	1718648574312	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574313
+REQUEST		Create a new game - Game-xcQTF	1718648574239	1718648574321	OK	 
+REQUEST		Authenticate	1718648574084	1718648574375	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574381
+REQUEST		Delete the created game	1718648574326	1718648574411	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574412
+REQUEST		Authenticate	1718648574184	1718648574475	OK	 
+REQUEST		Create a new game - Game-ZcoNs	1718648574377	1718648574475	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574482
+REQUEST		Delete the created game	1718648574449	1718648574538	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574539
+REQUEST		Authenticate	1718648574280	1718648574564	OK	 
+REQUEST		Create a new game - Game-DFrth	1718648574477	1718648574570	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574582
+REQUEST		Authenticate	1718648574381	1718648574630	OK	 
+REQUEST		Create a new game - Game-nqlgx	1718648574566	1718648574661	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574682
+REQUEST		Delete the created game	1718648574594	1718648574697	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574698
+REQUEST		Delete the created game	1718648574622	1718648574706	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574707
+REQUEST		Create a new game - Game-UYeOK	1718648574632	1718648574714	OK	 
+REQUEST		Authenticate	1718648574481	1718648574733	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574782
+REQUEST		Delete the created game	1718648574725	1718648574810	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574813
+REQUEST		Create a new game - Game-VVueF	1718648574734	1718648574817	OK	 
+REQUEST		Authenticate	1718648574581	1718648574834	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574883
+REQUEST		Create a new game - Game-mmbSK	1718648574838	1718648574923	OK	 
+REQUEST		Delete the created game	1718648574843	1718648574929	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648574930
+REQUEST		Authenticate	1718648574681	1718648574932	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648574982
+REQUEST		Create a new game - Game-GFzvb	1718648574934	1718648575018	OK	 
+REQUEST		Delete the created game	1718648574932	1718648575020	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575021
+REQUEST		Authenticate	1718648574781	1718648575034	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575083
+REQUEST		Delete the created game	1718648575024	1718648575111	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575113
+REQUEST		Create a new game - Game-gmrFY	1718648575036	1718648575116	OK	 
+REQUEST		Authenticate	1718648574882	1718648575153	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575182
+REQUEST		Delete the created game	1718648575126	1718648575210	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575211
+REQUEST		Create a new game - Game-Znhvi	1718648575154	1718648575242	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575285
+REQUEST		Authenticate	1718648574981	1718648575286	OK	 
+REQUEST		Delete the created game	1718648575222	1718648575306	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575307
+REQUEST		Authenticate	1718648575082	1718648575337	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575382
+REQUEST		Create a new game - Game-dcpkP	1718648575287	1718648575388	OK	 
+REQUEST		Delete the created game	1718648575324	1718648575411	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575412
+REQUEST		Create a new game - Game-PNmmZ	1718648575339	1718648575421	OK	 
+REQUEST		Authenticate	1718648575181	1718648575435	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575482
+REQUEST		Create a new game - Game-IbHsn	1718648575437	1718648575552	OK	 
+REQUEST		Authenticate	1718648575284	1718648575560	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575582
+REQUEST		Delete the created game	1718648575478	1718648575589	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575590
+REQUEST		Authenticate	1718648575381	1718648575647	OK	 
+REQUEST		Create a new game - Game-WjluF	1718648575561	1718648575663	OK	 
+REQUEST		Delete the created game	1718648575573	1718648575673	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575674
+USER	Create and Delete Video Game Scenario	START	1718648575683
+REQUEST		Create a new game - Game-KEyat	1718648575648	1718648575732	OK	 
+REQUEST		Authenticate	1718648575481	1718648575747	OK	 
+REQUEST		Delete the created game	1718648575664	1718648575759	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575760
+USER	Create and Delete Video Game Scenario	START	1718648575782
+REQUEST		Delete the created game	1718648575717	1718648575802	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575803
+REQUEST		Create a new game - Game-wEwFj	1718648575749	1718648575833	OK	 
+REQUEST		Authenticate	1718648575582	1718648575834	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575883
+REQUEST		Delete the created game	1718648575821	1718648575905	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648575907
+REQUEST		Create a new game - Game-BWAUh	1718648575836	1718648575918	OK	 
+REQUEST		Authenticate	1718648575682	1718648575935	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648575983
+REQUEST		Delete the created game	1718648575927	1718648576013	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576014
+REQUEST		Create a new game - Game-grGfx	1718648575937	1718648576019	OK	 
+REQUEST		Authenticate	1718648575781	1718648576035	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576082
+REQUEST		Delete the created game	1718648576021	1718648576110	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576111
+REQUEST		Create a new game - Game-AxrjX	1718648576037	1718648576119	OK	 
+REQUEST		Authenticate	1718648575882	1718648576145	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576182
+REQUEST		Delete the created game	1718648576119	1718648576209	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576210
+REQUEST		Create a new game - Game-lbOQN	1718648576146	1718648576228	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576281
+REQUEST		Delete the created game	1718648576245	1718648576334	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576335
+REQUEST		Authenticate	1718648576081	1718648576340	OK	 
+REQUEST		Authenticate	1718648575982	1718648576352	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576381
+REQUEST		Create a new game - Game-QQmSf	1718648576341	1718648576424	OK	 
+REQUEST		Authenticate	1718648576182	1718648576434	OK	 
+REQUEST		Create a new game - Game-FrmVi	1718648576354	1718648576436	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576482
+REQUEST		Delete the created game	1718648576390	1718648576490	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576492
+REQUEST		Delete the created game	1718648576424	1718648576506	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576507
+REQUEST		Create a new game - Game-BTwEn	1718648576435	1718648576517	OK	 
+REQUEST		Authenticate	1718648576280	1718648576535	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576582
+REQUEST		Create a new game - Game-JsvDR	1718648576537	1718648576619	OK	 
+REQUEST		Delete the created game	1718648576555	1718648576639	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576640
+REQUEST		Authenticate	1718648576381	1718648576659	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576682
+REQUEST		Authenticate	1718648576481	1718648576736	OK	 
+REQUEST		Create a new game - Game-YiIBC	1718648576660	1718648576751	OK	 
+REQUEST		Delete the created game	1718648576665	1718648576756	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576757
+USER	Create and Delete Video Game Scenario	START	1718648576781
+REQUEST		Delete the created game	1718648576735	1718648576820	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576821
+REQUEST		Create a new game - Game-mYvtq	1718648576740	1718648576821	OK	 
+REQUEST		Authenticate	1718648576581	1718648576869	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576882
+REQUEST		Delete the created game	1718648576837	1718648576920	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648576921
+REQUEST		Authenticate	1718648576681	1718648576936	OK	 
+REQUEST		Create a new game - Game-tfVHS	1718648576870	1718648576964	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648576982
+REQUEST		Delete the created game	1718648576921	1718648577006	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577007
+REQUEST		Create a new game - Game-erIdX	1718648576937	1718648577019	OK	 
+REQUEST		Authenticate	1718648576780	1718648577030	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577081
+REQUEST		Delete the created game	1718648577021	1718648577104	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577105
+REQUEST		Create a new game - Game-pWRVH	1718648577030	1718648577112	OK	 
+REQUEST		Authenticate	1718648576881	1718648577172	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577182
+REQUEST		Delete the created game	1718648577122	1718648577209	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577209
+REQUEST		Authenticate	1718648576981	1718648577270	OK	 
+REQUEST		Create a new game - Game-ICtiu	1718648577173	1718648577270	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577280
+REQUEST		Delete the created game	1718648577230	1718648577314	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577316
+REQUEST		Authenticate	1718648577081	1718648577358	OK	 
+REQUEST		Create a new game - Game-uyKuO	1718648577272	1718648577366	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577382
+REQUEST		Authenticate	1718648577181	1718648577430	OK	 
+REQUEST		Create a new game - Game-htNPp	1718648577360	1718648577453	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577482
+REQUEST		Delete the created game	1718648577426	1718648577513	KO	status.find.is(200), but actually found 404
+REQUEST		Create a new game - Game-yLMTi	1718648577431	1718648577513	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648577514
+REQUEST		Delete the created game	1718648577438	1718648577521	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577522
+REQUEST		Authenticate	1718648577279	1718648577551	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577581
+REQUEST		Delete the created game	1718648577520	1718648577603	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577604
+REQUEST		Authenticate	1718648577381	1718648577638	OK	 
+REQUEST		Create a new game - Game-Meonz	1718648577552	1718648577639	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577681
+REQUEST		Delete the created game	1718648577622	1718648577706	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577707
+REQUEST		Create a new game - Game-CLNiP	1718648577639	1718648577723	OK	 
+REQUEST		Authenticate	1718648577481	1718648577732	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577781
+REQUEST		Create a new game - Game-nQdqV	1718648577733	1718648577814	OK	 
+REQUEST		Authenticate	1718648577581	1718648577831	OK	 
+REQUEST		Delete the created game	1718648577754	1718648577847	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577848
+USER	Create and Delete Video Game Scenario	START	1718648577882
+REQUEST		Delete the created game	1718648577824	1718648577907	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648577909
+REQUEST		Create a new game - Game-ZpxfS	1718648577832	1718648577914	OK	 
+REQUEST		Authenticate	1718648577681	1718648577939	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648577982
+REQUEST		Create a new game - Game-rEWER	1718648577940	1718648578025	OK	 
+REQUEST		Delete the created game	1718648577967	1718648578064	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578065
+REQUEST		Authenticate	1718648577781	1718648578067	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648578082
+REQUEST		Delete the created game	1718648578021	1718648578106	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578107
+REQUEST		Authenticate	1718648577881	1718648578133	OK	 
+REQUEST		Create a new game - Game-WPrCW	1718648578068	1718648578163	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648578183
+REQUEST		Delete the created game	1718648578114	1718648578203	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578204
+REQUEST		Create a new game - Game-zqtCp	1718648578135	1718648578230	OK	 
+REQUEST		Authenticate	1718648577981	1718648578258	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648578280
+REQUEST		Authenticate	1718648578081	1718648578343	OK	 
+REQUEST		Create a new game - Game-vuIoZ	1718648578258	1718648578352	OK	 
+REQUEST		Delete the created game	1718648578272	1718648578370	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578371
+USER	Create and Delete Video Game Scenario	START	1718648578381
+REQUEST		Create a new game - Game-CbVRT	1718648578343	1718648578433	OK	 
+REQUEST		Authenticate	1718648578182	1718648578436	OK	 
+REQUEST		Delete the created game	1718648578368	1718648578462	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578463
+USER	Create and Delete Video Game Scenario	START	1718648578482
+REQUEST		Create a new game - Game-KAGCz	1718648578437	1718648578518	OK	 
+REQUEST		Authenticate	1718648578279	1718648578543	OK	 
+REQUEST		Delete the created game	1718648578456	1718648578552	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578553
+USER	Create and Delete Video Game Scenario	START	1718648578581
+REQUEST		Delete the created game	1718648578516	1718648578599	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578600
+REQUEST		Create a new game - Game-FTlQa	1718648578545	1718648578626	OK	 
+REQUEST		Authenticate	1718648578381	1718648578637	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648578681
+REQUEST		Create a new game - Game-KAuDf	1718648578639	1718648578725	OK	 
+REQUEST		Authenticate	1718648578481	1718648578733	OK	 
+REQUEST		Delete the created game	1718648578641	1718648578741	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578742
+USER	Create and Delete Video Game Scenario	START	1718648578782
+REQUEST		Delete the created game	1718648578726	1718648578811	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578813
+REQUEST		Create a new game - Game-rOUyH	1718648578735	1718648578818	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648578882
+REQUEST		Authenticate	1718648578581	1718648578887	OK	 
+REQUEST		Delete the created game	1718648578817	1718648578901	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648578902
+USER	Create and Delete Video Game Scenario	START	1718648578982
+REQUEST		Authenticate	1718648578681	1718648578984	OK	 
+REQUEST		Create a new game - Game-xzmJH	1718648578889	1718648578984	OK	 
+REQUEST		Delete the created game	1718648578916	1718648579002	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579003
+REQUEST		Authenticate	1718648578781	1718648579040	OK	 
+REQUEST		Create a new game - Game-EeFXl	1718648578986	1718648579080	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579082
+REQUEST		Delete the created game	1718648579028	1718648579126	KO	status.find.is(200), but actually found 404
+REQUEST		Create a new game - Game-YYRMO	1718648579041	1718648579126	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648579127
+REQUEST		Authenticate	1718648578881	1718648579171	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579182
+REQUEST		Authenticate	1718648578981	1718648579246	OK	 
+REQUEST		Delete the created game	1718648579165	1718648579263	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579264
+REQUEST		Create a new game - Game-HMLiq	1718648579172	1718648579266	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579281
+REQUEST		Delete the created game	1718648579233	1718648579317	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579318
+REQUEST		Authenticate	1718648579081	1718648579331	OK	 
+REQUEST		Create a new game - Game-mtbNS	1718648579247	1718648579332	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579383
+REQUEST		Create a new game - Game-QpOWq	1718648579332	1718648579416	OK	 
+REQUEST		Authenticate	1718648579181	1718648579435	OK	 
+REQUEST		Delete the created game	1718648579354	1718648579446	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579447
+USER	Create and Delete Video Game Scenario	START	1718648579483
+REQUEST		Create a new game - Game-KMcAP	1718648579437	1718648579522	OK	 
+REQUEST		Delete the created game	1718648579436	1718648579531	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579532
+REQUEST		Authenticate	1718648579281	1718648579570	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579582
+REQUEST		Delete the created game	1718648579521	1718648579606	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579607
+REQUEST		Create a new game - Game-DKkQM	1718648579571	1718648579664	OK	 
+REQUEST		Authenticate	1718648579382	1718648579678	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579682
+REQUEST		Delete the created game	1718648579629	1718648579713	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579715
+REQUEST		Create a new game - Game-LYiDo	1718648579680	1718648579771	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579782
+REQUEST		Authenticate	1718648579482	1718648579787	OK	 
+REQUEST		Delete the created game	1718648579728	1718648579824	KO	status.find.is(200), but actually found 404
+REQUEST		Authenticate	1718648579582	1718648579838	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648579849
+USER	Create and Delete Video Game Scenario	START	1718648579881
+REQUEST		Create a new game - Game-KVaVV	1718648579799	1718648579899	OK	 
+REQUEST		Delete the created game	1718648579838	1718648579922	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648579922
+REQUEST		Create a new game - Game-bDgtc	1718648579856	1718648579939	OK	 
+REQUEST		Authenticate	1718648579681	1718648579961	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648579982
+REQUEST		Authenticate	1718648579781	1718648580048	OK	 
+REQUEST		Create a new game - Game-qHXex	1718648579963	1718648580054	OK	 
+REQUEST		Delete the created game	1718648579987	1718648580078	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580081
+USER	Create and Delete Video Game Scenario	START	1718648580082
+REQUEST		Authenticate	1718648579881	1718648580134	OK	 
+REQUEST		Create a new game - Game-MxJiV	1718648580049	1718648580136	OK	 
+REQUEST		Delete the created game	1718648580081	1718648580181	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580183
+USER	Create and Delete Video Game Scenario	START	1718648580183
+REQUEST		Delete the created game	1718648580129	1718648580215	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580216
+REQUEST		Create a new game - Game-rJPmj	1718648580137	1718648580219	OK	 
+REQUEST		Authenticate	1718648579982	1718648580232	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648580280
+REQUEST		Create a new game - Game-CDrpy	1718648580234	1718648580317	OK	 
+REQUEST		Authenticate	1718648580081	1718648580335	OK	 
+REQUEST		Delete the created game	1718648580268	1718648580364	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580365
+USER	Create and Delete Video Game Scenario	START	1718648580382
+REQUEST		Create a new game - Game-OiGwm	1718648580337	1718648580419	OK	 
+REQUEST		Delete the created game	1718648580335	1718648580423	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580424
+REQUEST		Authenticate	1718648580182	1718648580433	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648580482
+REQUEST		Delete the created game	1718648580419	1718648580504	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580505
+REQUEST		Create a new game - Game-hZeWp	1718648580434	1718648580515	OK	 
+REQUEST		Authenticate	1718648580280	1718648580530	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648580582
+REQUEST		Delete the created game	1718648580525	1718648580611	KO	status.find.is(200), but actually found 404
+REQUEST		Create a new game - Game-Qfmxi	1718648580531	1718648580611	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648580612
+REQUEST		Authenticate	1718648580381	1718648580648	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648580682
+REQUEST		Authenticate	1718648580481	1718648580735	OK	 
+REQUEST		Create a new game - Game-ysPPX	1718648580649	1718648580739	OK	 
+REQUEST		Delete the created game	1718648580668	1718648580763	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580765
+USER	Create and Delete Video Game Scenario	START	1718648580782
+REQUEST		Create a new game - Game-MRaQw	1718648580737	1718648580820	OK	 
+REQUEST		Authenticate	1718648580581	1718648580838	OK	 
+REQUEST		Delete the created game	1718648580774	1718648580866	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648580867
+USER	Create and Delete Video Game Scenario	START	1718648580882
+REQUEST		Create a new game - Game-OBSOi	1718648580839	1718648580933	OK	 
+REQUEST		Authenticate	1718648580681	1718648580942	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648580982
+REQUEST		Create a new game - Game-fQOTP	1718648580943	1718648581027	OK	 
+REQUEST		Delete the created game	1718648580941	1718648581029	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581030
+REQUEST		Delete the created game	1718648580902	1718648581033	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581033
+USER	Create and Delete Video Game Scenario	START	1718648581082
+REQUEST		Authenticate	1718648580781	1718648581084	OK	 
+REQUEST		Delete the created game	1718648581056	1718648581148	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581150
+REQUEST		Authenticate	1718648580881	1718648581177	OK	 
+REQUEST		Create a new game - Game-mhFKE	1718648581085	1718648581180	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581182
+REQUEST		Delete the created game	1718648581139	1718648581234	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581235
+REQUEST		Authenticate	1718648580982	1718648581271	OK	 
+REQUEST		Create a new game - Game-TsJyZ	1718648581179	1718648581271	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581281
+REQUEST		Delete the created game	1718648581222	1718648581309	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581310
+REQUEST		Authenticate	1718648581082	1718648581341	OK	 
+REQUEST		Create a new game - Game-ELrem	1718648581272	1718648581367	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581382
+REQUEST		Delete the created game	1718648581320	1718648581405	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581406
+REQUEST		Create a new game - Game-YSZbK	1718648581343	1718648581429	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581482
+REQUEST		Authenticate	1718648581182	1718648581488	OK	 
+REQUEST		Delete the created game	1718648581422	1718648581506	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581506
+REQUEST		Authenticate	1718648581281	1718648581530	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581582
+REQUEST		Create a new game - Game-WcChZ	1718648581490	1718648581587	OK	 
+REQUEST		Delete the created game	1718648581517	1718648581604	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581605
+REQUEST		Create a new game - Game-KDcIH	1718648581532	1718648581615	OK	 
+REQUEST		Authenticate	1718648581381	1718648581667	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581682
+REQUEST		Delete the created game	1718648581613	1718648581700	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581701
+REQUEST		Authenticate	1718648581481	1718648581738	OK	 
+REQUEST		Create a new game - Game-UGXmS	1718648581668	1718648581761	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581782
+REQUEST		Create a new game - Game-XLwri	1718648581739	1718648581822	OK	 
+REQUEST		Delete the created game	1718648581741	1718648581829	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581830
+REQUEST		Authenticate	1718648581582	1718648581871	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581882
+REQUEST		Delete the created game	1718648581823	1718648581907	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648581907
+REQUEST		Create a new game - Game-aRdwI	1718648581872	1718648581966	OK	 
+REQUEST		Authenticate	1718648581682	1718648581977	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648581982
+REQUEST		Delete the created game	1718648581936	1718648582020	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582021
+REQUEST		Authenticate	1718648581781	1718648582036	OK	 
+REQUEST		Create a new game - Game-KekNo	1718648581979	1718648582075	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648582082
+REQUEST		Create a new game - Game-aUdts	1718648582037	1718648582119	OK	 
+REQUEST		Delete the created game	1718648582029	1718648582125	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582125
+REQUEST		Authenticate	1718648581882	1718648582170	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648582184
+REQUEST		Delete the created game	1718648582182	1718648582284	KO	status.find.is(200), but actually found 404
+REQUEST		Create a new game - Game-zxDiN	1718648582171	1718648582284	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648582285
+REQUEST		Authenticate	1718648581982	1718648582335	OK	 
+REQUEST		Authenticate	1718648582082	1718648582342	OK	 
+REQUEST		Delete the created game	1718648582273	1718648582368	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582368
+REQUEST		Create a new game - Game-MEKal	1718648582336	1718648582419	OK	 
+REQUEST		Create a new game - Game-eCKJu	1718648582343	1718648582427	OK	 
+REQUEST		Authenticate	1718648582183	1718648582442	OK	 
+REQUEST		Delete the created game	1718648582370	1718648582465	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582466
+REQUEST		Delete the created game	1718648582433	1718648582518	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582520
+REQUEST		Create a new game - Game-jeumw	1718648582444	1718648582525	OK	 
+REQUEST		Delete the created game	1718648582590	1718648582696	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582698
+REQUEST		Delete the created game	1718648582618	1718648582702	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582703
+REQUEST		Delete the created game	1718648582764	1718648582863	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582865
+REQUEST		Delete the created game	1718648582825	1718648582912	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648582913
+REQUEST		Delete the created game	1718648582969	1718648583066	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583067
+REQUEST		Delete the created game	1718648583077	1718648583171	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583172
+USER	Create and Delete Video Game Scenario	START	1718648583181
+REQUEST		Delete the created game	1718648583122	1718648583205	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583206
+REQUEST		Delete the created game	1718648583286	1718648583392	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583393
+REQUEST		Authenticate	1718648583181	1718648583439	OK	 
+REQUEST		Delete the created game	1718648583423	1718648583507	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583508
+REQUEST		Delete the created game	1718648583429	1718648583514	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583515
+REQUEST		Create a new game - Game-oQseJ	1718648583440	1718648583522	OK	 
+REQUEST		Delete the created game	1718648583527	1718648583619	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648583620
+USER	Create and Delete Video Game Scenario	START	1718648584182
+REQUEST		Authenticate	1718648584181	1718648584440	OK	 
+REQUEST		Create a new game - Game-LCDVo	1718648584442	1718648584523	OK	 
+REQUEST		Delete the created game	1718648584524	1718648584607	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648584608
+USER	Create and Delete Video Game Scenario	START	1718648585182
+REQUEST		Authenticate	1718648585181	1718648585442	OK	 
+REQUEST		Create a new game - Game-wDKKx	1718648585444	1718648585530	OK	 
+REQUEST		Delete the created game	1718648585526	1718648585612	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648585612
+USER	Create and Delete Video Game Scenario	START	1718648585681
+REQUEST		Authenticate	1718648585680	1718648585964	OK	 
+REQUEST		Create a new game - Game-IxMpv	1718648585965	1718648586061	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648586182
+REQUEST		Authenticate	1718648586181	1718648586453	OK	 
+REQUEST		Create a new game - Game-jSVyC	1718648586456	1718648586542	OK	 
+REQUEST		Delete the created game	1718648586543	1718648586627	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648586627
+USER	Create and Delete Video Game Scenario	START	1718648586681
+REQUEST		Delete the created game	1718648587065	1718648587161	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648587164
+REQUEST		Authenticate	1718648586681	1718648587174	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648587182
+REQUEST		Create a new game - Game-eHVMT	1718648587175	1718648587277	OK	 
+REQUEST		Authenticate	1718648587181	1718648587470	OK	 
+REQUEST		Create a new game - Game-btCNj	1718648587471	1718648587564	OK	 
+REQUEST		Delete the created game	1718648587544	1718648587636	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648587638
+USER	Create and Delete Video Game Scenario	START	1718648587682
+REQUEST		Authenticate	1718648587681	1718648587989	OK	 
+REQUEST		Create a new game - Game-BITud	1718648587991	1718648588090	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648588182
+REQUEST		Delete the created game	1718648588280	1718648588377	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648588379
+REQUEST		Authenticate	1718648588181	1718648588435	OK	 
+REQUEST		Create a new game - Game-MWZXG	1718648588438	1718648588530	OK	 
+REQUEST		Delete the created game	1718648588567	1718648588666	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648588666
+USER	Create and Delete Video Game Scenario	START	1718648588681
+REQUEST		Authenticate	1718648588681	1718648588967	OK	 
+REQUEST		Create a new game - Game-sOTul	1718648588969	1718648589054	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648589182
+REQUEST		Delete the created game	1718648589092	1718648589192	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648589193
+REQUEST		Authenticate	1718648589181	1718648589435	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648589516
+REQUEST		Create a new game - Game-wGctl	1718648589438	1718648589523	OK	 
+REQUEST		Delete the created game	1718648589533	1718648589616	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648589617
+REQUEST		Authenticate	1718648589515	1718648589769	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648589849
+REQUEST		Create a new game - Game-stzCf	1718648589771	1718648589853	OK	 
+REQUEST		Authenticate	1718648589848	1718648590104	OK	 
+REQUEST		Delete the created game	1718648590057	1718648590146	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648590147
+USER	Create and Delete Video Game Scenario	START	1718648590181
+REQUEST		Create a new game - Game-MymPL	1718648590106	1718648590188	OK	 
+REQUEST		Authenticate	1718648590180	1718648590470	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648590516
+REQUEST		Create a new game - Game-eQosD	1718648590472	1718648590568	OK	 
+REQUEST		Delete the created game	1718648590526	1718648590614	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648590615
+REQUEST		Authenticate	1718648590515	1718648590779	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648590849
+REQUEST		Create a new game - Game-IPIWE	1718648590781	1718648590867	OK	 
+REQUEST		Delete the created game	1718648590856	1718648590948	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648590949
+REQUEST		Authenticate	1718648590848	1718648591121	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648591182
+REQUEST		Create a new game - Game-PtGXl	1718648591122	1718648591210	OK	 
+REQUEST		Delete the created game	1718648591190	1718648591273	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648591274
+REQUEST		Authenticate	1718648591181	1718648591464	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648591513
+REQUEST		Create a new game - Game-TIVkj	1718648591464	1718648591558	OK	 
+REQUEST		Delete the created game	1718648591571	1718648591666	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648591666
+REQUEST		Authenticate	1718648591513	1718648591770	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648591847
+REQUEST		Create a new game - Game-azTYv	1718648591771	1718648591853	OK	 
+REQUEST		Delete the created game	1718648591869	1718648591952	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648591953
+REQUEST		Authenticate	1718648591847	1718648592115	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648592181
+REQUEST		Create a new game - Game-yKEhd	1718648592116	1718648592201	OK	 
+REQUEST		Delete the created game	1718648592214	1718648592297	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648592297
+REQUEST		Authenticate	1718648592181	1718648592431	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648592514
+REQUEST		Create a new game - Game-AfMVm	1718648592432	1718648592521	OK	 
+REQUEST		Delete the created game	1718648592560	1718648592651	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648592652
+REQUEST		Authenticate	1718648592514	1718648592804	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648592848
+REQUEST		Create a new game - Game-jKxFb	1718648592805	1718648592899	OK	 
+REQUEST		Delete the created game	1718648592855	1718648592939	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648592940
+REQUEST		Authenticate	1718648592848	1718648593148	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648593182
+REQUEST		Create a new game - Game-CAlmV	1718648593149	1718648593247	OK	 
+REQUEST		Delete the created game	1718648593204	1718648593290	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648593291
+REQUEST		Authenticate	1718648593181	1718648593433	OK	 
+REQUEST		Create a new game - Game-KXlHB	1718648593433	1718648593513	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648593514
+REQUEST		Delete the created game	1718648593523	1718648593610	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648593611
+REQUEST		Authenticate	1718648593513	1718648593771	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648593848
+REQUEST		Create a new game - Game-UOsVy	1718648593773	1718648593855	OK	 
+REQUEST		Delete the created game	1718648593902	1718648593996	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648593997
+REQUEST		Authenticate	1718648593847	1718648594098	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648594182
+REQUEST		Create a new game - Game-xWaPz	1718648594099	1718648594183	OK	 
+REQUEST		Delete the created game	1718648594250	1718648594359	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648594360
+REQUEST		Authenticate	1718648594181	1718648594446	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648594514
+REQUEST		Create a new game - Game-idoAp	1718648594447	1718648594530	OK	 
+REQUEST		Delete the created game	1718648594515	1718648594598	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648594598
+REQUEST		Authenticate	1718648594513	1718648594806	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648594848
+REQUEST		Create a new game - Game-bZrFL	1718648594807	1718648594913	OK	 
+REQUEST		Delete the created game	1718648594858	1718648594961	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648594962
+REQUEST		Authenticate	1718648594847	1718648595110	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648595182
+REQUEST		Create a new game - Game-gmCpX	1718648595113	1718648595196	OK	 
+REQUEST		Delete the created game	1718648595185	1718648595269	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648595271
+USER	Create and Delete Video Game Scenario	START	1718648595432
+REQUEST		Authenticate	1718648595181	1718648595469	OK	 
+REQUEST		Create a new game - Game-NKBMT	1718648595472	1718648595567	OK	 
+REQUEST		Delete the created game	1718648595533	1718648595634	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648595635
+USER	Create and Delete Video Game Scenario	START	1718648595682
+REQUEST		Authenticate	1718648595432	1718648595712	OK	 
+REQUEST		Create a new game - Game-UJBdg	1718648595712	1718648595798	OK	 
+REQUEST		Authenticate	1718648595681	1718648595931	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648595932
+REQUEST		Delete the created game	1718648595916	1718648596015	KO	status.find.is(200), but actually found 404
+REQUEST		Create a new game - Game-MaQYP	1718648595933	1718648596015	OK	 
+USER	Create and Delete Video Game Scenario	END	1718648596016
+USER	Create and Delete Video Game Scenario	START	1718648596182
+REQUEST		Authenticate	1718648595932	1718648596182	OK	 
+REQUEST		Create a new game - Game-KBnUc	1718648596183	1718648596265	OK	 
+REQUEST		Delete the created game	1718648596198	1718648596282	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648596283
+USER	Create and Delete Video Game Scenario	START	1718648596431
+REQUEST		Authenticate	1718648596181	1718648596431	OK	 
+REQUEST		Create a new game - Game-dzdHS	1718648596432	1718648596514	OK	 
+REQUEST		Delete the created game	1718648596569	1718648596663	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648596664
+USER	Create and Delete Video Game Scenario	START	1718648596680
+REQUEST		Authenticate	1718648596430	1718648596716	OK	 
+REQUEST		Create a new game - Game-JpikL	1718648596717	1718648596812	OK	 
+REQUEST		Delete the created game	1718648596800	1718648596883	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648596884
+USER	Create and Delete Video Game Scenario	START	1718648596932
+REQUEST		Authenticate	1718648596680	1718648596956	OK	 
+REQUEST		Create a new game - Game-cZLgn	1718648596957	1718648597040	OK	 
+REQUEST		Delete the created game	1718648597019	1718648597104	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648597106
+REQUEST		Authenticate	1718648596931	1718648597183	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648597185
+REQUEST		Create a new game - Game-tIPST	1718648597184	1718648597266	OK	 
+REQUEST		Delete the created game	1718648597267	1718648597361	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648597362
+USER	Create and Delete Video Game Scenario	START	1718648597432
+REQUEST		Authenticate	1718648597181	1718648597442	OK	 
+REQUEST		Create a new game - Game-mHocQ	1718648597444	1718648597527	OK	 
+REQUEST		Delete the created game	1718648597516	1718648597600	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648597602
+USER	Create and Delete Video Game Scenario	START	1718648597682
+REQUEST		Authenticate	1718648597431	1718648597691	OK	 
+REQUEST		Create a new game - Game-YokaM	1718648597692	1718648597773	OK	 
+REQUEST		Delete the created game	1718648597816	1718648597910	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648597912
+USER	Create and Delete Video Game Scenario	START	1718648597932
+REQUEST		Authenticate	1718648597681	1718648597933	OK	 
+REQUEST		Create a new game - Game-WGIYu	1718648597934	1718648598017	OK	 
+REQUEST		Delete the created game	1718648598043	1718648598126	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648598127
+USER	Create and Delete Video Game Scenario	START	1718648598181
+REQUEST		Authenticate	1718648597932	1718648598186	OK	 
+REQUEST		Create a new game - Game-Sbpyw	1718648598186	1718648598269	OK	 
+REQUEST		Delete the created game	1718648598268	1718648598352	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648598352
+USER	Create and Delete Video Game Scenario	START	1718648598431
+REQUEST		Authenticate	1718648598180	1718648598455	OK	 
+REQUEST		Create a new game - Game-GaEir	1718648598457	1718648598596	OK	 
+REQUEST		Delete the created game	1718648598530	1718648598616	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648598617
+USER	Create and Delete Video Game Scenario	START	1718648598681
+REQUEST		Authenticate	1718648598431	1718648598707	OK	 
+REQUEST		Create a new game - Game-yTNXp	1718648598708	1718648598789	OK	 
+REQUEST		Delete the created game	1718648598776	1718648598858	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648598859
+USER	Create and Delete Video Game Scenario	START	1718648598932
+REQUEST		Authenticate	1718648598681	1718648598942	OK	 
+REQUEST		Create a new game - Game-yswXV	1718648598943	1718648599029	OK	 
+REQUEST		Delete the created game	1718648599020	1718648599103	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648599104
+USER	Create and Delete Video Game Scenario	START	1718648599182
+REQUEST		Authenticate	1718648598932	1718648599184	OK	 
+REQUEST		Create a new game - Game-bnfev	1718648599185	1718648599267	OK	 
+REQUEST		Delete the created game	1718648599271	1718648599353	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648599354
+USER	Create and Delete Video Game Scenario	START	1718648599382
+REQUEST		Authenticate	1718648599181	1718648599446	OK	 
+REQUEST		Create a new game - Game-gItym	1718648599447	1718648599533	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648599582
+REQUEST		Authenticate	1718648599381	1718648599667	OK	 
+REQUEST		Delete the created game	1718648599599	1718648599683	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648599684
+REQUEST		Create a new game - Game-WkWHX	1718648599667	1718648599765	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648599782
+REQUEST		Authenticate	1718648599581	1718648599829	OK	 
+REQUEST		Delete the created game	1718648599792	1718648599874	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648599875
+REQUEST		Create a new game - Game-wasWn	1718648599832	1718648599913	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648599982
+REQUEST		Authenticate	1718648599782	1718648600032	OK	 
+REQUEST		Create a new game - Game-YMqlJ	1718648600032	1718648600115	OK	 
+REQUEST		Delete the created game	1718648600031	1718648600120	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648600121
+USER	Create and Delete Video Game Scenario	START	1718648600181
+REQUEST		Authenticate	1718648599982	1718648600232	OK	 
+REQUEST		Create a new game - Game-FQFFR	1718648600233	1718648600315	OK	 
+REQUEST		Delete the created game	1718648600270	1718648600352	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648600353
+USER	Create and Delete Video Game Scenario	START	1718648600382
+REQUEST		Authenticate	1718648600181	1718648600432	OK	 
+REQUEST		Create a new game - Game-ROlMy	1718648600434	1718648600516	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648600582
+REQUEST		Delete the created game	1718648600534	1718648600625	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648600626
+REQUEST		Authenticate	1718648600381	1718648600658	OK	 
+REQUEST		Create a new game - Game-edeUm	1718648600659	1718648600748	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648600781
+REQUEST		Delete the created game	1718648600767	1718648600866	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648600867
+REQUEST		Authenticate	1718648600581	1718648600869	OK	 
+REQUEST		Create a new game - Game-PBWUq	1718648600870	1718648600963	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648600982
+REQUEST		Delete the created game	1718648600914	1718648600997	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648600997
+REQUEST		Authenticate	1718648600781	1718648601033	OK	 
+REQUEST		Create a new game - Game-TPESx	1718648601034	1718648601115	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648601181
+REQUEST		Delete the created game	1718648601117	1718648601201	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648601202
+REQUEST		Authenticate	1718648600981	1718648601268	OK	 
+REQUEST		Create a new game - Game-YFIsx	1718648601270	1718648601365	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648601382
+REQUEST		Delete the created game	1718648601320	1718648601404	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648601405
+REQUEST		Authenticate	1718648601181	1718648601465	OK	 
+REQUEST		Create a new game - Game-VQMzx	1718648601467	1718648601560	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648601581
+REQUEST		Delete the created game	1718648601520	1718648601603	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648601603
+REQUEST		Authenticate	1718648601381	1718648601641	OK	 
+REQUEST		Create a new game - Game-XDGZK	1718648601642	1718648601725	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648601782
+REQUEST		Delete the created game	1718648601751	1718648601846	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648601848
+REQUEST		Authenticate	1718648601581	1718648601857	OK	 
+REQUEST		Create a new game - Game-xIVwY	1718648601858	1718648601948	OK	 
+USER	Create and Delete Video Game Scenario	START	1718648601983
+REQUEST		Authenticate	1718648601781	1718648602041	OK	 
+REQUEST		Delete the created game	1718648601966	1718648602072	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648602073
+REQUEST		Create a new game - Game-lGeZr	1718648602042	1718648602129	OK	 
+REQUEST		Delete the created game	1718648602118	1718648602206	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648602207
+REQUEST		Authenticate	1718648601982	1718648602232	OK	 
+REQUEST		Create a new game - Game-YDosg	1718648602233	1718648602316	OK	 
+REQUEST		Delete the created game	1718648602369	1718648602468	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648602469
+REQUEST		Delete the created game	1718648602563	1718648602668	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648602669
+REQUEST		Delete the created game	1718648602727	1718648602810	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648602811
+REQUEST		Delete the created game	1718648602950	1718648603043	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648603044
+REQUEST		Delete the created game	1718648603132	1718648603216	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648603217
+REQUEST		Delete the created game	1718648603319	1718648603403	KO	status.find.is(200), but actually found 404
+USER	Create and Delete Video Game Scenario	END	1718648603404

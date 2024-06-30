@@ -1,0 +1,8 @@
+RUN	videogamedb.scriptfundamentals.VideoGameTest	videogametest	1718642463624	test	3.10.5
+USER	Video Game Create and Delete	START	1718642464321
+REQUEST		Get All Games	1718642464319	1718642464626	OK	 
+REQUEST		Authenticate	1718642464643	1718642464813	OK	 
+REQUEST		Create a new game	1718642464854	1718642464952	OK	 
+REQUEST		Delete a game	1718642464953	1718642465046	KO	status.find.is(200), but actually found 403
+REQUEST		Get All Games	1718642465054	1718642465151	OK	 
+USER	Video Game Create and Delete	END	1718642465156

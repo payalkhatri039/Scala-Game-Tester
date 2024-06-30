@@ -1,0 +1,6 @@
+RUN	videogamedb.scriptfundamentals.VideoGameTest	videogametest	1718644097516	t	3.10.5
+USER	Video Game Create and Delete	START	1718644097944
+REQUEST		Authenticate	1718644097943	1718644098264	OK	 
+REQUEST		Create a new game	1718644098309	1718644098425	OK	 
+REQUEST		Delete a game	1718644098428	1718644098564	OK	 
+USER	Video Game Create and Delete	END	1718644098570

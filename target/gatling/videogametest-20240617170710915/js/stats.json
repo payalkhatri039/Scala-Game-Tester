@@ -1,0 +1,333 @@
+{
+  "type": "GROUP",
+"name": "All Requests",
+"path": "",
+"pathFormatted": "group_missing-name--1146707516",
+"stats": {
+    "name": "All Requests",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 2,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 91,
+        "ok": 96,
+        "ko": 91
+    },
+    "maxResponseTime": {
+        "total": 297,
+        "ok": 297,
+        "ko": 91
+    },
+    "meanResponseTime": {
+        "total": 161,
+        "ok": 197,
+        "ko": 91
+    },
+    "standardDeviation": {
+        "total": 96,
+        "ok": 101,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 96,
+        "ok": 197,
+        "ko": 91
+    },
+    "percentiles2": {
+        "total": 197,
+        "ok": 247,
+        "ko": 91
+    },
+    "percentiles3": {
+        "total": 277,
+        "ok": 287,
+        "ko": 91
+    },
+    "percentiles4": {
+        "total": 293,
+        "ok": 295,
+        "ko": 91
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 2,
+    "percentage": 67
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t >= 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t >= 1200 ms",
+    "htmlName": "t >= 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 33
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.0,
+        "ok": 2.0,
+        "ko": 1.0
+    }
+},
+"contents": {
+"req_authenticate-1885436661": {
+        "type": "REQUEST",
+        "name": "Authenticate",
+"path": "Authenticate",
+"pathFormatted": "req_authenticate-1885436661",
+"stats": {
+    "name": "Authenticate",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 297,
+        "ok": 297,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t >= 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t >= 1200 ms",
+    "htmlName": "t >= 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 1.0,
+        "ko": 0
+    }
+}
+    },"req_create-a-new-ga--1207167787": {
+        "type": "REQUEST",
+        "name": "Create a new game",
+"path": "Create a new game",
+"pathFormatted": "req_create-a-new-ga--1207167787",
+"stats": {
+    "name": "Create a new game",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t >= 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t >= 1200 ms",
+    "htmlName": "t >= 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 1.0,
+        "ko": 0
+    }
+}
+    },"req_delete-a-game-74628166": {
+        "type": "REQUEST",
+        "name": "Delete a game",
+"path": "Delete a game",
+"pathFormatted": "req_delete-a-game-74628166",
+"stats": {
+    "name": "Delete a game",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "maxResponseTime": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "meanResponseTime": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "percentiles2": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "percentiles3": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "percentiles4": {
+        "total": 91,
+        "ok": 0,
+        "ko": 91
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "htmlName": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms <= t < 1200 ms",
+    "htmlName": "t >= 800 ms <br> t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t >= 1200 ms",
+    "htmlName": "t >= 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "htmlName": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 0,
+        "ko": 1.0
+    }
+}
+    }
+}
+
+}
